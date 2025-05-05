@@ -46,13 +46,13 @@ The system consists of three main components that work together:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Tushar4059x/cn-pro
-   cd network-congestion-viz
+   cd cn-pro
    ```
 
 2. **Create and activate a virtual environment (recommended)**
    ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
+   python -m venv cnpro_env
+   source cnpro_env/bin/activate  # On Windows: env\Scripts\activate
    ```
 
 3. **Install dependencies**
