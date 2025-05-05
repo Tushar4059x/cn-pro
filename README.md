@@ -45,7 +45,7 @@ The system consists of three main components that work together:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/network-congestion-viz.git
+   git clone https://github.com/Tushar4059x/cn-pro
    cd network-congestion-viz
    ```
 
